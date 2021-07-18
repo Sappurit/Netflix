@@ -1,4 +1,8 @@
 
+https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Rg.woff2
+https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Md.woff2
+
+
 ******************************************************************************************************************************************************************************
 
 2020-12-07	December 7, 2020	The Claus Family	Fantasy	Family Features	Dutch	097	1h 37m	7+	https://www.netflix.com/title/81316603	https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfWyKxk8Q6OZHO8jU2ZKrHpFjT-ZN2lLDx6hjkYd1YvNfwncagiHZTYByZDH4xpiasUKHLi1hOg5DU6S7ZwP2t3W8vP9.jpg	https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABT9ucmOCN7ajn1VDBQvpOI4HlPWnLEcAI5LCsERs0ijhFyKpXpw7tLMaO6FOQNtA5e77B6JuOAgOAmeIVPybXUN1kTIX.jpg	When his grandfather suddenly falls ill, holiday-hating Jules learns of his family's magical legacy and realizes he's the only hope to save Christmas.
